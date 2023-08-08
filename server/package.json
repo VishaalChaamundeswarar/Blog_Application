@@ -12,10 +12,9 @@
     "url": "git+https://github.com/VishaalChaamundeswarar/Blog_Application.git#main"
   },
   "keywords": [
-    "'Node",
-    "JS'",
-    "'Blog'",
-    "'Application'"
+    "Node JS",
+    "Blog",
+    "Application"
   ],
   "author": "Vishaal.J <vishaal.j.trs@gmail.com>",
   "license": "ISC",
